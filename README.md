@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Banner](Ai.png)
 <!--
 **maryam20gul00-sketch/maryam20gul00-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
